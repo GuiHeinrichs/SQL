@@ -19,7 +19,8 @@ CREATE TABLE Paciente (
     Idade int,
     Cpf varchar(13) PRIMARY KEY NOT NULL,
     Enfermidade varchar(50),
-    Descricao varchar(300) 
+    Descricao varchar(300),
+    Sexo varchar(20)
 );
 CREATE TABLE Enfermaria (
     Ramal int PRIMARY KEY NOT NULL,
