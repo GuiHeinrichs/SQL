@@ -204,52 +204,60 @@ INSERT INTO Paciente (
   	Idade,
   	Cpf,
   	Enfermidade,
-  	Descricao
+  	Descricao,
+	Sexo
 ) VALUES (
 	'Leonardo Diogo Yago Jesus',
   	25,
   	'647.291.798-11',
   	'',
-  	'Telefone: (11) 99583-8537; Tipo Sangue: A+; Rua João Batista Vico,334,Vila Amélia, São Paulo-SP;leonardo_jesus@likaleal.com.br'
+  	'Telefone: (11) 99583-8537; Tipo Sangue: A+; Rua João Batista Vico,334,Vila Amélia, São Paulo-SP;leonardo_jesus@likaleal.com.br',
+	'Masculino'
 );
 INSERT INTO Paciente (
 	Nome,
   	Idade,
   	Cpf,
   	Enfermidade,
-  	Descricao
+  	Descricao,
+	Sexo
 ) VALUES (
 	'Hadassa Catarina Costa',
   	73,
   	'423.683.020-50',
   	'Diabetes tipo 2',
-  	'Telefone: (54) 98451-6413; Tipo Sangue: AB+; Rua Principal, s/n,298,Marcondes,Gramado-RS;hadassa_costa@tlmix.com.br'
+  	'Telefone: (54) 98451-6413; Tipo Sangue: AB+; Rua Principal, s/n,298,Marcondes,Gramado-RS;hadassa_costa@tlmix.com.br',
+	'Feminino'
 );
 INSERT INTO Paciente (
 	Nome,
   	Idade,
   	Cpf,
   	Enfermidade,
-  	Descricao
+  	Descricao,
+	Sexo
 ) VALUES (
 	'Luís Anthony Raul Monteiro',
   	54,
   	'165.278.770-48',
   	'Hipertensão',
-  	'Telefone: (51) 98813-2806; Tipo Sangue: A-; Rua D,501,Rubem Berta, Porto Alegre-RS;luisanthonymonteiro@flex-erp.com'
+  	'Telefone: (51) 98813-2806; Tipo Sangue: A-; Rua D,501,Rubem Berta, Porto Alegre-RS;luisanthonymonteiro@flex-erp.com',
+	'Masculino'
 );
 INSERT INTO Paciente (
 	Nome,
   	Idade,
   	Cpf,
   	Enfermidade,
-  	Descricao
+  	Descricao,
+	Sexo
 ) VALUES (
 	'Isabela Luiza Antônia Moreira',
   	20,
   	'218.183.049-53',
   	'Diabetes Tipo 1',
-  	'Telefone: (47) 99797-5508; Tipo Sangue: O+; Rua Lourival Francisco Rita,979,Costa e Silva,Joinville-SC;isabelaluizamoreira@rcstechnology.com.br'
+  	'Telefone: (47) 99797-5508; Tipo Sangue: O+; Rua Lourival Francisco Rita,979,Costa e Silva,Joinville-SC;isabelaluizamoreira@rcstechnology.com.br',
+	'Feminino'
 );
 
 --Medico
