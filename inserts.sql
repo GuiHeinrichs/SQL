@@ -262,7 +262,7 @@ INSERT INTO Paciente (
 
 --Medico
 
-INSERT INTO (
+INSERT INTO Medico(
     Nome,
     Idade,
     Cpf,
@@ -277,7 +277,7 @@ INSERT INTO (
 	'5:00',
 	'SP'
 );
-INSERT INTO (
+INSERT INTO Medico(
     Nome,
     Idade,
     Cpf,
@@ -292,7 +292,7 @@ INSERT INTO (
 	'6:00',
 	'RS;'
 );
-INSERT INTO (
+INSERT INTO Medico(
     Nome,
     Idade,
     Cpf,
@@ -307,7 +307,7 @@ INSERT INTO (
 	'6:00',
 	'RS'
 );
-INSERT INTO (
+INSERT INTO Medico(
     Nome,
     Idade,
     Cpf,
@@ -322,7 +322,7 @@ INSERT INTO (
 	'6:00',
 	'SC'
 );
-INSERT INTO (
+INSERT INTO Medico(
     Nome,
     Idade,
     Cpf,
